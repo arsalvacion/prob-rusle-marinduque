@@ -2,7 +2,7 @@
 
 Companion code for:
 
-> Salvacion, A.R. (2026). Probabilistic soil erosion modeling with RUSLE and Monte Carlo simulation: quantifying and contextualizing rainfall-driven uncertainty in a tropical island landscape. *CATENA*.
+> Salvacion, A.R. (2026). Probabilistic soil erosion modeling with RUSLE and Monte Carlo simulation: quantifying and contextualizing rainfall-driven uncertainty in a tropical island landscape. *Submitted*.
 
 ## Overview
 
@@ -153,7 +153,7 @@ If you use this code, please cite:
 ```
 Salvacion, A.R. (2026). Probabilistic soil erosion modeling with RUSLE and Monte Carlo
 simulation: quantifying and contextualizing rainfall-driven uncertainty in a tropical
-island landscape. CATENA. https://doi.org/[DOI]
+island landscape. SUBMIITED. https://doi.org/[DOI]
 ```
 
 ## License
